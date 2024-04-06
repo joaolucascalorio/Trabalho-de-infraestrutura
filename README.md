@@ -1,4 +1,10 @@
 # Tutorial dados em Cache utilizando Flask
+Projeto realizado por:
+> João Lucas de Calorio 10388086
+
+> Luigi Nestori 10390072
+
+> Rafael Carreira Cavalcante 10253621
 
 ## Tutoriais utilizados
 [Codemann](https://codedamn.com/news/backend/rest-api-caching-advanced-techniques)
